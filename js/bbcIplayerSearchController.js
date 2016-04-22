@@ -1,0 +1,3 @@
+bbcIplayerSearch.controller('bbcIplayerSearch', [function() {
+
+}]);
