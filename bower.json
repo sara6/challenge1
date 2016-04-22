@@ -1,0 +1,20 @@
+{
+  "name": "bbcIplayer",
+  "homepage": "https://github.com/sara6/challenge1",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.5",
+    "angular-resource": "^1.5.5"
+  }
+}
